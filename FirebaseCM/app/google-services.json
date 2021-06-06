@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386798870616",
+    "project_id": "fcmessaging-18e6c",
+    "storage_bucket": "fcmessaging-18e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386798870616:android:1fad90b99799db615cea2d",
+        "android_client_info": {
+          "package_name": "com.isa.fcmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386798870616-7476klmctvi0odtdm2a8ilc9lodjr54r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isa.fcmessaging",
+            "certificate_hash": "5f2b0d457481dab44a26785d91506616cfaa6fff"
+          }
+        },
+        {
+          "client_id": "386798870616-4u1ldtlhm05tp9vam4fc47cmgag2aahb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvN67yuE90C1PK-UaHMDlPdsc8ZNH7Ikk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386798870616-4u1ldtlhm05tp9vam4fc47cmgag2aahb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

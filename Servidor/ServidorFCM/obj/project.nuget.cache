@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8NVzuQc/pZQSXo+P/TBLq0e7iyyavTKfArXCMqUCGZx+Dle8vmotG+kB0MLiWnf6E3K2jR73ywaMloAI/8PVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo T540P\\OneDrive\\Documentos\\ITSUR\\VIII Semestre\\MOVIL II - 2\\U6\\Firebase\\Servidor\\ServidorFCM\\ServidorFCM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\firebaseadmin\\2.1.0\\firebaseadmin.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo T540P\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
